@@ -1,0 +1,7 @@
+{
+  "name": "MultiGen AI Platform",
+  "description": "A centralized hub for diverse AI-powered tasks, including text generation, image manipulation, and code creation, presented within a sleek, modern, and highly interactive user interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
